@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/andreirat"><img src="https://api.daily.dev/devcards/c8da1b04d5c04f85914f32e6015bab56.png?r=9sq" width="400" alt="Andrei Rat's Dev Card"/></a>
 
 <!--
 **andreirat/andreirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
